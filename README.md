@@ -6,11 +6,9 @@ Micromouse is a robotics challenge in which an autonomous robot must navigate an
 This project involved designing both the hardware platform and the embedded control software required for autonomous maze exploration and navigation.
 
 ![Micromouse Robot](images./Bot02.jpg)
-
 Old (2023) Micromouse Bot
------------
-![Micromouse Robot](images./NewBot01.jpeg)
 
+![Micromouse Robot](images./NewBot01.jpeg)
 Newer (2024) Micromouse Bot
 
 
