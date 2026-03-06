@@ -9,10 +9,12 @@ This project involved designing both the hardware platform and the embedded cont
 
 Micromouse competitions typically involve two stages:
 
-1. Exploration Run
+1. Exploration Run:
+
 During the first run, the robot explores the maze slowly while mapping walls and paths using IR sensor arrays. The maze structure is stored and processed using the Flood Fill algorithm to determine optimal routes.
 
-2. Speed Run
+2. Speed Run:
+
 After exploration, the final timed run begins. The robot autonomously computes the optimal shortest path and traverses it at higher speeds to reach the goal as quickly as possible.
 
 Ongoing Improvements - 
